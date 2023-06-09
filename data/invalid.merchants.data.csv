@@ -1,0 +1,670 @@
+uboat,commander,ship_name,tonnage,nationality,convoy,coordinates,year,month,day
+U-13,Karl Daublebsky von Eichhain,Magdapur [Mine],"8,641",0,0,,1939,9,10
+U-15,Heinz Buchholz,Goodwood [Mine],"2,796",0,0,,1939,9,10
+U-17,Heinz von Reiche,Hawarden Castle [Mine],210,0,0,,1939,9,14
+U-26,Klaus Ewerth,Alex van Opstal [Mine],"5,965",1,0,,1939,9,15
+U-13,Karl Daublebsky von Eichhain,City of Paris (d.) [Mine],"10,902",0,0,,1939,9,16
+U-41,Gustav-Adolf Mugler,Suomen Poika (c.),"1,099",2,0,,1939,9,16
+U-41,Gustav-Adolf Mugler,Vega (c.),974,2,0,,1939,9,16
+U-35,Werner Lott,Teakwood (d.),"6,014",0,1,,1939,9,21
+U-13,Karl Daublebsky von Eichhain,Phryné [Mine],"2,660",3,0,,1939,9,24
+U-34,Wilhelm Rollmann,Hanonia (c.),"1,781",4,0,,1939,9,24
+U-36,Wilhelm Fröhlich,Algeria (c.),"1,617",5,0,,1939,9,27
+U-7,Werner Heidel,Takstaas (t.),"1,830",6,0,,1939,9,29
+U-32,Paul Büchel,Marwarri (d.) [Mine],"8,063",0,0,,1939,10,5
+U-32,Paul Büchel,Lochgoil (d.) [Mine],"9,462",0,0,,1939,10,6
+U-26,Klaus Ewerth,Binnendijk [Mine],"6,873",9,0,,1939,10,7
+U-42,Rolf Dau,Stonepool (d.),"4,803",0,3,,1939,10,13
+U-15,Heinz Buchholz,Orsa [Mine],"1,478",0,0,,1939,10,21
+U-19,Hans Meckel,Capitaine Edmond Laborie [Mine],"3,087",3,0,,1939,10,21
+U-19,Hans Meckel,Deodata [Mine],"3,295",6,0,,1939,10,21
+U-19,Hans Meckel,Konstantinos Hadjipateras [Mine],"5,962",8,0,,1939,10,24
+U-35,Werner Lott,Diamantis,"4,990",8,0,,1939,10,3
+U-23,Otto Kretschmer,Glen Farg,876,0,0,,1939,10,4
+U-32,Paul Büchel,Marwarri (d.) [Mine],"8,063",0,0,,1939,10,5
+U-32,Paul Büchel,Lochgoil (d.) [Mine],"9,462",0,0,,1939,10,6
+U-26,Klaus Ewerth,Binnendijk [Mine],"6,873",9,0,,1939,10,7
+U-37,Werner Hartmann,Vistula,"1,018",5,0,,1939,10,8
+U-37,Werner Hartmann,Aris,"4,810",8,0,,1939,10,12
+U-48,Herbert Schultze,Emile Miguet,"14,115",3,2,,1939,10,12
+U-42,Rolf Dau,Stonepool (d.),"4,803",0,3,,1939,10,13
+U-48,Herbert Schultze,Heronspool,"5,202",0,3,,1939,10,13
+U-48,Herbert Schultze,Louisiane,"6,903",3,4,,1939,10,13
+U-45,Alexander Gelhaar,Bretagne,"10,108",3,5,,1939,10,14
+U-45,Alexander Gelhaar,Lochavon,"9,205",0,5,,1939,10,14
+U-47,Günther Prien,HMS Royal Oak (08),"29,150",0,0,,1939,10,14
+U-48,Herbert Schultze,Sneaton,"3,677",0,0,,1939,10,14
+U-37,Werner Hartmann,Vermont,"5,186",3,0,,1939,10,15
+U-37,Werner Hartmann,Yorkshire,"10,183",0,6,,1939,10,17
+U-46,Herbert Sohler,City of Mandalay,"7,028",0,6,,1939,10,17
+U-48,Herbert Schultze,Clan Chisholm,"7,256",0,6,,1939,10,17
+U-34,Wilhelm Rollmann,Gustaf Adolf,926,5,0,,1939,10,20
+U-34,Wilhelm Rollmann,Sea Venture,"2,327",0,0,,1939,10,20
+U-15,Heinz Buchholz,Orsa [Mine],"1,478",0,0,,1939,10,21
+U-19,Hans Meckel,Capitaine Edmond Laborie [Mine],"3,087",3,0,,1939,10,21
+U-19,Hans Meckel,Deodata [Mine],"3,295",6,0,,1939,10,21
+U-19,Hans Meckel,Konstantinos Hadjipateras [Mine],"5,962",8,0,,1939,10,24
+U-37,Werner Hartmann,Ledbury,"3,528",0,0,,1939,10,24
+U-37,Werner Hartmann,Menin Ridge,"2,474",0,0,,1939,10,24
+U-37,Werner Hartmann,Tafna,"4,413",0,0,,1939,10,24
+U-34,Wilhelm Rollmann,Bronte,"5,317",0,7,,1939,10,27
+U-59,Harald Jürst,Lynx II,250,0,0,,1939,10,28
+U-59,Harald Jürst,St. Nidan,565,0,0,,1939,10,28
+U-34,Wilhelm Rollmann,Malabar,"7,976",0,8,,1939,10,29
+U-13,Karl Daublebsky von Eichhain,Cairnmona,"4,666",0,9,,1939,10,30
+U-37,Werner Hartmann,Thrasyvoulos,"3,693",8,0,,1939,10,30
+U-59,Harald Jürst,HMS Northern Rover (4.58),655,0,0,,1939,10,30
+U-25,Viktor Schütze,Baoulé,"5,874",3,10,,1939,10,31
+U-34,Wilhelm Rollmann,Snar (c.),"3,176",6,0,,1939,11,9
+U-19,Wilhelm Müller-Arnecke,Carica Milica [Mine],"6,371",11,0,,1939,11,18
+U-16,Horst Wellner,Ste. Claire [Mine],57,3,0,,1939,11,21
+U-21,Fritz Frauenheim,HMS Belfast (35) (d.) [Mine],"11,500",0,0,,1939,11,21
+U-26,Klaus Ewerth,Elena R. [Mine],"4,576",8,0,,1939,11,22
+U-33,Hans-Wilhelm von Dresky,Borkum (t.),"3,670",12,0,,1939,11,23
+U-20,Karl-Heinz Moehle,Ionian [Mine],"3,114",0,15,,1939,11,29
+U-56,Wilhelm Zahn,Eskdene (d.),"3,829",0,16,,1939,12,2
+U-31,Johannes Habekost,HMS Nelson (28) (d.) [Mine],"33,950",0,0,,1939,12,4
+U-59,Harald Jürst,HMS Washington [Mine],209,0,0,,1939,12,6
+U-20,Karl-Heinz Moehle,Willowpool [Mine],"4,815",0,19,,1939,12,10
+U-59,Harald Jürst,Marwick Head [Mine],496,0,0,,1939,12,12
+U-60,Georg Schewe,City of Kobe [Mine],"4,373",0,20,,1939,12,19
+U-22,Karl-Heinrich Jenisch,Mars [Mine],"1,877",5,0,,1939,12,20
+U-46,Herbert Sohler,Rudolf,924,6,0,,1939,12,21
+U-61,Jürgen Oesten,Gryfevale (d.) [Mine],"4,434",0,0,,1939,12,22
+U-22,Karl-Heinrich Jenisch,HMS Dolphin [Mine],"3,099",0,0,,1939,12,23
+U-31,Johannes Habekost,HMS Glen Albyn [Mine],82,0,0,,1939,12,23
+U-31,Johannes Habekost,HMS Promotive [Mine],78,0,0,,1939,12,23
+U-22,Karl-Heinrich Jenisch,HMS Loch Doon (FY 127) [Mine],534,0,0,,1939,12,25
+U-33,Hans-Wilhelm von Dresky,Stanholme [Mine],"2,473",0,0,,1939,12,25
+U-15,Heinz Buchholz,Resercho [Mine],258,0,0,,1939,12,28
+U-22,Karl-Heinrich Jenisch,Hanne [Mine],"1,080",7,0,,1939,12,28
+U-30,Fritz-Julius Lemp,HMS Barham (04) (d.),"31,100",0,0,,1939,12,28
+U-13,Heinz Scheringer,City of Marseilles (d.) [Mine],"8,317",0,0,,1940,1,6
+U-30,Fritz-Julius Lemp,El Oso [Mine],"7,267",0,22,,1940,1,11
+U-23,Otto Kretschmer,Danmark (t.),"10,517",7,0,,1940,1,12
+U-30,Fritz-Julius Lemp,Gracia (d.) [Mine],"5,642",0,23,,1940,1,16
+U-33,Hans-Wilhelm von Dresky,Inverdargle [Mine],"9,456",0,0,,1940,1,16
+U-30,Fritz-Julius Lemp,Cairnross [Mine],"5,494",0,24,,1940,1,17
+U-34,Wilhelm Rollmann,Caroni River [Mine],"7,807",0,0,,1940,1,20
+U-22,Karl-Heinrich Jenisch,Ferryhill [Mine],"1,086",0,0,,1940,1,21
+U-28,Günter Kuhnke,Protesilaus (t.) [Mine],"9,577",0,0,,1940,1,21
+U-56,Wilhelm Zahn,Onto [Mine],"1,333",2,0,,1940,1,23
+U-57,Claus Korth,HMS Durham Castle [Mine],"8,240",0,0,,1940,1,26
+U-20,Harro von Klot-Heydenfeldt,Faro (t.),844,6,0,,1940,1,27
+U-22,Karl-Heinrich Jenisch,Eston [Mine],"1,487",0,26,,1940,1,28
+U-41,Gustav-Adolf Mugler,Ceronia (d.),"8,096",9,0,,1940,2,5
+U-13,Heinz Scheringer,Anu [Mine],"1,421",4,0,,1940,2,6
+U-30,Fritz-Julius Lemp,Munster [Mine],"4,305",0,0,,1940,2,7
+U-30,Fritz-Julius Lemp,Chagres [Mine],"5,406",0,0,,1940,2,9
+U-53,Harald Grosse,Imperial Transport (d.),"8,022",0,0,,1940,2,11
+U-57,Claus Korth,Gretafield (t.),"10,191",0,30,,1940,2,14
+U-57,Claus Korth,Loch Maddy (d.),"4,996",0,34,,1940,2,21
+U-23,Otto Kretschmer,Loch Maddy (t.),"4,996",0,34,,1940,2,22
+U-21,Fritz Frauenheim,Royal Archer [Mine],"2,266",0,36,,1940,2,24
+U-29,Otto Schuhart,Cato [Mine],710,0,0,,1940,3,3
+U-30,Fritz-Julius Lemp,Counsellor [Mine],"5,068",0,38,,1940,3,8
+U-29,Otto Schuhart,Slava [Mine],"4,512",11,0,,1940,3,16
+U-47,Günther Prien,Britta,"1,146",7,0,,1940,3,25
+U-34,Wilhelm Rollmann,HNoMS Frøya (t.),595,6,0,,1940,4,13
+U-13,Max-Martin Schulte,Scottish American (d.),"6,999",0,0,,1940,4,28
+U-37,Victor Oehrn,Dunster Grange (d.),"9,494",0,0,,1940,5,22
+U-48,Hans Rudolf Rösing,Eros (d.),"5,888",0,0,,1940,6,7
+U-46,Engelbert Endrass,Athelprince (d.),"8,782",0,42,,1940,6,11
+U-25,Heinz Beduhn,Brumaire (d.),"7,638",3,0,,1940,6,19
+U-65,Hans-Gerrit von Stockhausen,Clan Ogilvy (d.),"5,802",0,50,,1940,6,30
+U-26,Heinz Scheringer,Zarian (d.),"4,871",0,51,,1940,7,1
+U-65,Hans-Gerrit von Stockhausen,Amstelland (d.),"8,156",9,51,,1940,7,1
+U-99,Otto Kretschmer,Merisaar (c.),"2,136",4,0,,1940,7,12
+U-99,Otto Kretschmer,Alexia (d.),"8,016",0,62,,1940,8,2
+U-99,Otto Kretschmer,Lucerna (d.),"6,556",0,62,,1940,8,2
+U-99,Otto Kretschmer,Strinda (d.),"10,973",6,62,,1940,8,2
+U-46,Engelbert Endrass,Alcinous (d.),"6,189",9,68,,1940,8,16
+U-46,Engelbert Endrass,Leonidas M. Valmas (t.),"2,080",8,0,,1940,8,20
+U-57,Erich Topp,Havildar (d.),"5,407",0,74,,1940,8,24
+U-124,Georg-Wilhelm Schulz,Stakesby (d.),"3,900",0,75,,1940,8,25
+U-100,Joachim Schepke,Hartismere (d.),"5,498",0,80,,1940,8,29
+U-59,Joachim Matz,Anadara (d.),"8,009",0,82,,1940,8,30
+U-59,Joachim Matz,San Gabriel (t.),"4,943",8,82,,1940,8,30
+U-60,Adalbert Schnee,Volendam (d.),"15,434",9,82,,1940,8,31
+U-32,Hans Jenisch,HMS Fiji (58) (d.),"8,000",0,83,,1940,9,1
+U-28,Günter Kuhnke,Harpenden (d.),"4,678",0,87,,1940,9,11
+U-47,Günther Prien,Elmbank (d.),"5,156",0,93,,1940,9,21
+U-48,Heinrich Bleichrodt,Broompark (d.),"5,136",0,93,,1940,9,21
+U-32,Hans Jenisch,Collegian (d.),"7,886",0,93,,1940,9,22
+U-137,Herbert Wohlfarth,Ashantian (d.),"4,917",0,95,,1940,9,26
+U-32,Hans Jenisch,Corrientes (d.),"6,863",0,94,,1940,9,26
+U-103,Viktor Schütze,Graigwen (d.),"3,697",0,104,,1940,10,9
+U-137,Herbert Wohlfarth,HMS Cheshire (F 18) (d.),"10,552",0,0,,1940,10,14
+U-138,Wolfgang Lüth,British Glory (d.),"6,993",0,107,,1940,10,15
+U-100,Joachim Schepke,Boekelo (d.),"2,118",9,108,,1940,10,18
+U-100,Joachim Schepke,Shekatika (d.),"5,458",0,108,,1940,10,18
+U-101,Fritz Frauenheim,Blairspey (d.),"4,155",0,108,,1940,10,18
+U-38,Heinrich Liebe,Carsbreck (d.),"3,670",0,108,,1940,10,18
+U-100,Joachim Schepke,Blairspey (d.),"4,155",0,108,,1940,10,19
+U-47,Günther Prien,Shirak (d.),"6,023",0,109,,1940,10,19
+U-99,Otto Kretschmer,Clintonia (d.),"3,106",0,108,,1940,10,19
+U-47,Günther Prien,Athelmonarch (d.),"8,995",0,109,,1940,10,20
+U-28,Günter Kuhnke,Matina (d.),"5,389",0,0,,1940,10,26
+U-47,Günther Prien,Gonçalo Velho (d.),"1,595",23,0,,1940,11,8
+U-100,Joachim Schepke,Bruse (t.),"2,205",6,120,,1940,11,23
+U-104,Harald Jürst,Charles F. Meyer (d.),"10,516",0,122,,1940,11,27
+U-95,Gerd Schreiber,Ringhorn (d.),"1,298",6,121,,1940,11,28
+U-101,Ernst Mengersen,Loch Ranza (d.),"4,958",0,125,,1940,12,1
+U-47,Günther Prien,Conch (d.),"8,376",0,125,,1940,12,2
+U-47,Günther Prien,Dunsley (d.),"3,862",0,125,,1940,12,2
+U-95,Gerd Schreiber,Conch (d.),"8,376",0,125,,1940,12,2
+U-43,Wolfgang Lüth,Orari (d.),"10,350",0,0,,1940,12,13
+U-96,Heinrich Lehmann-Willenbrock,Empire Razorbill (d.),"5,118",0,133,,1940,12,14
+U-96,Heinrich Lehmann-Willenbrock,Pendrecht (d.),"10,746",9,134,,1940,12,18
+U-95,Gerd Schreiber,Waiotira (d.),"12,823",0,0,,1940,12,26
+U-65,Hans-Gerrit von Stockhausen,British Zeal (d.),"8,532",0,137,,1940,12,31
+U-103,Viktor Schütze,Arthur F. Corwin (d.),"10,516",0,147,,1941,2,13
+U-97,Udo Heilmann,G.C. Brøvig (d.),"9,718",6,155,,1941,2,24
+U-47,Günther Prien,Diala (d.),"8,106",0,156,,1941,2,26
+U-47,Günther Prien,Terje Viken (d.),"20,638",0,159,,1941,3,7
+U-70,Joachim Matz,Athelbeach (d.),"6,568",0,159,,1941,3,7
+U-70,Joachim Matz,Delilian (d.),"6,423",0,159,,1941,3,7
+U-70,Joachim Matz,Mijdrecht (d.),"7,493",9,159,,1941,3,7
+U-74,Eitel-Friedrich Kentrat,Frodi (d.),123,24,0,,1941,3,11
+U-110,Fritz-Julius Lemp,Erodona (d.),"6,207",0,161,,1941,3,16
+U-99,Otto Kretschmer,Franche Comte (d.),"9,314",0,161,,1941,3,16
+U-106,Jürgen Oesten,HMS Malaya (01) (d.),"31,100",0,162,,1941,3,20
+U-106,Jürgen Oesten,Meerkerk (d.),"7,995",9,162,,1941,3,20
+U-110,Fritz-Julius Lemp,Siremalm (d.),"2,468",6,0,,1941,3,23
+U-46,Engelbert Endrass,Alderpool (d.),"4,313",0,167,,1941,4,3
+U-69,Jost Metzler,Thirlby (d.),"4,887",0,167,,1941,4,3
+U-74,Eitel-Friedrich Kentrat,HMS Worcestershire (F 29) (d.),"11,402",0,167,,1941,4,3
+U-76,Friedrich von Hippel,Daphne,"1,939",2,0,,1941,4,3
+U-73,Helmut Rosenbaum,HMS ML-1003 [Trans.],46,0,0,,1941,4,20
+U-73,Helmut Rosenbaum,HMS ML-1037 [Trans.],46,0,0,,1941,4,20
+U-552,Erich Topp,Capulet (d.),"8,190",0,174,,1941,4,28
+U-201,Adalbert Schnee,Empire Cloud (d.),"5,969",0,178,,1941,5,9
+U-556,Herbert Wohlfarth,Aelybryn (d.),"4,986",0,178,,1941,5,10
+U-111,Wilhelm Kleinschmidt,San Felix (d.),"13,037",0,186,,1941,5,20
+U-147,Eberhard Wetjen,Gravelines (t.),"2,491",0,189,,1941,5,31
+U-69,Jost Metzler,Sangara (t.),"5,445",0,0,,1941,5,31
+U-147,Eberhard Wetjen,Mokambo (d.),"4,996",1,191,,1941,6,2
+U-48,Herbert Schultze,Inversuir (d.),"9,456",0,190,,1941,6,3
+U-69,Jost Metzler,Robert Hughes [Mine],"2,879",0,0,,1941,6,4
+U-46,Engelbert Endrass,Ensis (d.),"6,207",0,195,,1941,6,8
+U-43,Wolfgang Lüth,Cathrine,"2,727",0,198,,1941,6,17
+U-141,Philipp Schüler,Calabria,"1,277",5,198,,1941,6,22
+U-564,Reinhard Suhren,Kongsgaard (d.),"9,467",6,200,,1941,6,27
+U-79,Wolfgang Kaufmann,Tibia (d.),"10,356",9,200,,1941,6,27
+U-146,Otto Ites,Pluto,"3,496",2,0,,1941,6,28
+U-126,Ernst Bauer,Canadian Star (d.),"8,293",0,0,,1941,7,20
+U-95,Gerd Schreiber,Palma (d.),"5,419",0,0,,1941,7,20
+U-141,Philipp Schüler,Atlantic City (d.),"5,133",0,206,,1941,7,26
+U-571,Helmut Möhlmann,Marija Uljanova (t.),"3,870",26,0,,1941,8,26
+U-652,Georg-Werner Fraatz,HMS Southern Prince (M 47) (d.),"10,917",0,0,,1941,8,26
+U-652,Georg-Werner Fraatz,Baron Pentland (d.),"3,410",0,214,,1941,9,10
+U-652,Georg-Werner Fraatz,Tahchee (d.),"6,508",0,214,,1941,9,10
+U-433,Hans Ey,Bestum (d.),"2,215",6,214,,1941,9,11
+U-82,Siegfried Rollmann,Scania (d.),"1,999",5,214,,1941,9,11
+U-201,Adalbert Schnee,Margareta,"3,103",0,220,,1941,9,27
+U-502,Jürgen von Rosenstiel,Svend Foyn (d.),"14,795",0,223,,1941,10,7
+U-126,Ernst Bauer,HMS LCT-102 [Trans.],450,0,224,,1941,10,10
+U-331,Hans-Diedrich Freiherr von Tiesenhausen,HMS TLC-18 (A 18) (d.),372,0,0,,1941,10,10
+U-568,Joachim Preuss,USS Kearny (DD 432) (d.),"1,630",25,226,,1941,10,17
+U-126,Ernst Bauer,British Mariner (t.),"6,996",0,0,,1941,10,20
+U-123,Reinhard Hardegen,HMS Aurania (F 28) (d.),"13,984",0,228,,1941,10,21
+U-79,Wolfgang Kaufmann,HMS Gnat (T 60) (t.),625,0,0,,1941,10,21
+U-83,Hans-Werner Kraus,HMS Ariguani (F 105) (d.),"6,746",0,229,,1941,10,26
+U-68,Karl-Friedrich Merten,Hazelside,"5,297",0,0,,1941,10,28
+U-106,Hermann Rasch,USS Salinas (AO 19) (d.),"8,246",25,231,,1941,10,30
+U-431,Wilhelm Dommes,Myriel (d.),"3,560",0,0,,1941,12,13
+U-77,Heinrich Schonder,HMS Kimberley (F 50) (d.),"1,690",0,0,,1942,1,12
+U-553,Karl Thurmann,Diala (d.),"8,106",0,249,,1942,1,15
+U-402,Siegfried Freiherr von Forstner,Llangibby Castle (d.),"11,951",0,250,,1942,1,16
+U-86,Walter Schug,Toorak (d.),"8,627",0,249,,1942,1,16
+U-454,Burckhard Hackländer,Harmatris (d.),"5,395",0,252,,1942,1,17
+U-123,Reinhard Hardegen,Malay (d.),"8,206",25,0,,1942,1,19
+U-203,Rolf Mützelburg,North Gaspe (d.),888,19,0,,1942,1,21
+U-130,Ernst Kals,Halo (d.),"6,986",25,0,,1942,1,27
+U-751,Gerhard Bigalk,Corilla (d.),"8,096",9,261,,1942,2,2
+U-586,Dietrich von der Esch,Anna Knudsen (d.),"9,057",6,0,,1942,2,9
+U-156,Werner Hartenstein,Arkansas (d.),"6,452",25,0,,1942,2,16
+U-156,Werner Hartenstein,Pedernales (d.),"4,317",0,0,,1942,2,16
+U-564,Reinhard Suhren,Opalia (d.),"6,195",0,0,,1942,2,16
+U-67,Günther Müller-Stöckheim,Rafaela (d.),"3,177",9,0,,1942,2,16
+U-161,Albrecht Achilles,British Consul (d.),"6,940",0,0,,1942,2,19
+U-161,Albrecht Achilles,Mokihana (d.),"7,460",25,0,,1942,2,19
+U-107,Harald Gelhaus,Egda (d.),"10,068",6,267,,1942,2,21
+U-96,Heinrich Lehmann-Willenbrock,Kars (t.),"8,888",0,0,,1942,2,22
+U-502,Jürgen von Rosenstiel,Sun (d.),"9,002",25,0,,1942,2,23
+U-502,Jürgen von Rosenstiel,Thalia,"8,329",15,0,,1942,2,23
+U-158,Erwin Rostin,Diloma (d.),"8,146",0,268,,1942,2,24
+U-558,Günther Krech,Anadara (d.),"8,009",0,268,,1942,2,24
+U-126,Ernst Bauer,Esso Bolivar (d.),"10,389",15,0,,1942,3,8
+U-587,Ulrich Borcherdt,Lily,"5,719",8,271,,1942,3,9
+U-161,Albrecht Achilles,Lady Nelson (d.),"7,970",19,0,,1942,3,10
+U-161,Albrecht Achilles,Umtata (d.),"8,141",0,0,,1942,3,10
+U-126,Ernst Bauer,Colabee (d.),"5,518",25,0,,1942,3,13
+U-158,Erwin Rostin,Olean (d.),"7,118",25,0,,1942,3,15
+U-124,Johann Mohr,Acme (d.),"6,878",25,0,,1942,3,17
+U-83,Hans-Werner Kraus,Crista (d.),"2,590",0,273,,1942,3,17
+U-124,Johann Mohr,Atlantic Sun (d.),"11,355",25,0,,1942,3,21
+U-124,Johann Mohr,Esso Nashville (d.),"7,934",25,0,,1942,3,21
+U-202,Hans-Heinz Linder,Athelviscount (d.),"8,882",0,274,,1942,3,22
+U-94,Otto Ites,Imperial Transport (d.),"8,022",0,276,,1942,3,25
+U-456,Max-Martin Teichert,Effingham (d.),"6,421",25,277,,1942,3,30
+U-754,Hans Oestermann,Ontario (d.),490,25,0,,1942,3,31
+U-123,Reinhard Hardegen,Liebre (d.),"7,057",25,0,,1942,4,2
+U-572,Heinz Hirsacker,Ensis (d.),"6,207",0,0,,1942,4,4
+U-160,Georg Lassen,Bidwell (d.),"6,837",25,0,,1942,4,6
+U-453,Egon Reiner Freiherr von Schlippenbach,HMHS Somersetshire (d.),"9,716",0,0,,1942,4,7
+U-123,Reinhard Hardegen,Esso Baton Rouge (d.),"7,989",25,0,,1942,4,8
+U-123,Reinhard Hardegen,Oklahoma (d.),"9,264",25,0,,1942,4,8
+U-203,Rolf Mützelburg,"Harry F. Sinclair, Jr. (d.)","6,151",25,0,,1942,4,11
+U-203,Rolf Mützelburg,Stanvac Melbourne (d.),"10,013",15,0,,1942,4,12
+U-201,Adalbert Schnee,Victoria (d.),"7,417",18,0,,1942,4,18
+U-136,Heinrich Zimmermann,Axtell J. Byles (d.),"8,955",25,0,,1942,4,19
+U-752,Karl-Ernst Schroeter,Reinholt (d.),"4,799",6,0,,1942,4,23
+U-562,Horst Hamm,Alliance [Mine],81,0,0,,1942,4,29
+U-562,Horst Hamm,Terpsithea [Mine],157,0,0,,1942,4,29
+U-456,Max-Martin Teichert,HMS Edinburgh (16) (d.),"11,500",0,284,,1942,4,30
+U-589,Hans-Joachim Horrer,Tsiolkovskij (d.),"2,847",26,284,,1942,5,1
+U-506,Erich Würdemann,Sama,567,36,0,,1942,5,3
+U-66,Richard Zapp,Geo. W. McKnight (d.),"12,502",0,287,,1942,5,3
+U-564,Reinhard Suhren,Eclipse (d.),"9,767",0,287,,1942,5,4
+U-564,Reinhard Suhren,Delisle (d.),"3,478",25,0,,1942,5,5
+U-333,Peter-Erich Cremer,Java Arrow (d.),"8,327",25,0,,1942,5,6
+U-588,Victor Vogel,Greylock (d.),"7,460",25,0,,1942,5,9
+U-506,Erich Würdemann,Aurora (d.),"7,050",25,0,,1942,5,10
+U-507,Harro Schacht,Gulfprince (d.),"6,561",25,0,,1942,5,13
+U-506,Erich Würdemann,David McKelvy (t.),"6,821",25,0,,1942,5,14
+U-561,Robert Bartels,Fred (d.) [Mine],"4,043",8,0,,1942,5,14
+U-561,Robert Bartels,Hav (t.) [Mine],"5,062",6,0,,1942,5,14
+U-561,Robert Bartels,Mount Olympus [Mine],"6,692",8,0,,1942,5,14
+U-593,Gerd Kelbling,Stavros (d.),"4,853",8,0,,1942,5,14
+U-506,Erich Würdemann,Sun (d.),"9,002",25,0,,1942,5,16
+U-506,Erich Würdemann,William C. McTarnahan (d.),"7,306",25,0,,1942,5,16
+U-156,Werner Hartenstein,San Eliseo (d.),"8,042",0,0,,1942,5,18
+U-588,Victor Vogel,Fort Binger (d.),"5,671",0,288,,1942,5,18
+U-753,Alfred Manhardt von Mannstein,E.P. Theriault (d.),326,0,0,,1942,5,22
+U-558,Günther Krech,William Boyce Thompson (d.),"7,061",25,0,,1942,5,23
+U-156,Werner Hartenstein,USS Blakeley (DD 150) (d.),"1,190",25,0,,1942,5,25
+U-593,Gerd Kelbling,Persephone (t.),"8,426",15,0,,1942,5,25
+U-753,Alfred Manhardt von Mannstein,Haakon Hauan (d.),"6,582",6,0,,1942,5,25
+U-106,Hermann Rasch,Atenas (d.),"4,639",25,0,,1942,5,27
+U-106,Hermann Rasch,Mentor,"7,383",0,0,,1942,5,28
+U-159,Helmut Friedrich Witte,Paracury (d.),265,29,0,,1942,6,5
+U-432,Heinz-Otto Schultze,Kronprinsen (d.),"7,073",6,296,,1942,6,9
+U-432,Heinz-Otto Schultze,Malayan Prince (d.),"8,593",0,296,,1942,6,9
+U-559,Hans Heidtmann,Brambleleaf (t.),"5,917",0,298,,1942,6,10
+U-569,Hans-Peter Hinsch,Pontypridd (d.),"4,458",0,295,,1942,6,11
+U-431,Wilhelm Dommes,HMS LCT-119 (d.),450,0,0,,1942,6,15
+U-701,Horst Degen,Esso Augusta (d.) [Mine],"11,237",25,302,,1942,6,15
+U-701,Horst Degen,HMS Kingston Ceylonite (FY 214) [Mine],448,0,302,,1942,6,15
+U-701,Horst Degen,Robert C. Tuttle (d.) [Mine],"11,615",25,302,,1942,6,15
+U-701,Horst Degen,USS Bainbridge (DD 246) (d.) [Mine],"1,190",25,302,,1942,6,15
+U-701,Horst Degen,Santore [Mine],"7,117",25,304,,1942,6,17
+U-159,Helmut Friedrich Witte,Flora,"1,417",9,0,,1942,6,18
+U-67,Günther Müller-Stöckheim,Nortind (d.),"8,221",6,0,,1942,6,20
+U-373,Paul-Karl Loeser,John R. Williams [Mine],396,25,0,,1942,6,24
+U-701,Horst Degen,Tamesis (d.),"7,256",6,0,,1942,6,26
+U-701,Horst Degen,British Freedom (d.),"6,985",0,307,,1942,6,27
+U-126,Ernst Bauer,Gulfbelle (d.),"7,104",25,0,,1942,7,3
+U-161,Albrecht Achilles,San Pablo (t.),"3,305",15,0,,1942,7,3
+U-67,Günther Müller-Stöckheim,Paul H. Harwood (d.),"6,610",25,0,,1942,7,7
+U-571,Helmut Möhlmann,"J.A. Moffett, Jr. (t.)","9,788",25,0,,1942,7,8
+U-116,Werner von Schmidt,Cortona (d.),"7,093",0,312,,1942,7,12
+U-582,Werner Schulte,HMNZS ML-1090 [Trans.],46,40,0,,1942,7,12
+U-562,Horst Hamm,Adinda (d.),"3,359",9,0,,1942,7,14
+U-571,Helmut Möhlmann,Pennsylvania Sun (d.),"11,394",25,0,,1942,7,15
+U-576,Hans-Dieter Heinicke,Chilore (d.),"8,310",25,313,,1942,7,15
+U-576,Hans-Dieter Heinicke,J.A. Mowinckel (d.),"11,147",15,313,,1942,7,15
+U-575,Günther Heydemann,San Gaspar (d.),"12,910",0,0,,1942,7,18
+U-132,Ernst Vogelsang,Frederika Lensen (t.),"4,367",0,316,,1942,7,20
+U-84,Horst Uphoff,William Cullen Bryant (d.),"7,176",25,317,,1942,7,21
+U-552,Erich Topp,British Merit (d.),"8,093",0,318,,1942,7,25
+U-607,Ernst Mengersen,Empire Rainbow (d.),"6,942",0,318,,1942,7,26
+U-66,Friedrich Markworth,HMS MTB-339 (d.) [Mine],32,0,0,,1942,8,2
+U-66,Friedrich Markworth,HMS MTB-342 (d.) [Mine],32,0,0,,1942,8,2
+U-552,Erich Topp,G.S. Walden (d.),"10,627",0,322,,1942,8,3
+U-553,Karl Thurmann,Belgian Soldier (d.),"7,167",1,322,,1942,8,3
+U-160,Georg Lassen,Havsten (d.),"6,161",6,0,,1942,8,4
+U-77,Heinrich Schonder,Adnan (d.),155,20,0,,1942,8,6
+U-438,Rudolf Franzius,Oregon,"6,008",0,323,,1942,8,10
+U-510,Karl Neitzel,Alexia (d.),"8,016",0,0,,1942,8,10
+U-660,Götz Baur,Condylis (d.),"4,439",8,323,,1942,8,10
+U-660,Götz Baur,Oregon (d.),"6,008",0,323,,1942,8,10
+U-98,Wilhelm Schulze,USS Bold (AMc 67) (d.) [Mine],185,25,0,,1942,8,10
+U-598,Gottfried Holtorf,Standella (d.),"6,197",0,330,,1942,8,14
+U-209,Heinrich Brodda,Komsomolets (t.),220,26,0,,1942,8,17
+U-566,Gerhard Remus,Triton,"6,607",6,332,,1942,8,17
+U-658,Hans Senkel,Laguna (d.),"6,466",0,333,,1942,8,17
+U-214,Günther Reeder,HMS Cheshire (F 18) (d.),"10,552",0,332,,1942,8,18
+U-375,Jürgen Koenenkamp,Empire Kumari (t.),"6,288",0,340,,1942,8,26
+U-511,Friedrich Steinhoff,Esso Aruba (d.),"8,773",25,342,,1942,8,27
+U-516,Gerhard Wiebe,Port Jackson (d.),"9,687",0,0,,1942,8,27
+U-165,Eberhard Hoffmann,Arlyn (d.),"3,304",25,344,,1942,8,28
+U-165,Eberhard Hoffmann,USS Laramie (AO 16) (d.),"7,252",25,344,,1942,8,28
+unknown,,Sande,60,34,0,"[('21.37', '-76.00')]",1942,8,31
+U-659,Hans Stock,Empire Oil (d.),"8,029",0,351,,1942,9,10
+U-96,Hans-Jürgen Hellriegel,F.J. Wolfe (d.),"12,190",0,351,,1942,9,10
+U-218,Richard Becker,Fjordaas (d.),"7,361",6,351,,1942,9,11
+U-404,Otto von Bülow,Marit II (d.),"7,417",6,351,,1942,9,11
+U-514,Hans-Jürgen Auffermann,Cornwallis (d.),"5,458",19,0,,1942,9,11
+U-211,Karl Hause,Empire Moonbeam (d.),"6,849",0,351,,1942,9,12
+U-211,Karl Hause,Hektoria (d.),"13,797",0,351,,1942,9,12
+U-404,Otto von Bülow,Daghild (d.),"9,272",6,351,,1942,9,12
+U-515,Werner Henke,Woensdrecht (t.),"4,668",9,0,,1942,9,12
+U-558,Günther Krech,Vilja (t.),"6,672",6,355,,1942,9,13
+U-457,Karl Brandenburg,Atheltemplar (d.),"8,939",0,354,,1942,9,14
+U-165,Eberhard Hoffmann,Essex Lance (d.),"6,625",0,356,,1942,9,16
+U-165,Eberhard Hoffmann,Pan York (d.),"4,570",25,356,,1942,9,16
+U-175,Heinrich Bruns,Norfolk,"1,901",19,0,,1942,9,18
+U-211,Karl Hause,Esso Williamsburg (d.),"11,237",25,0,,1942,9,23
+U-515,Werner Henke,Antinous (d.),"6,034",25,360,,1942,9,23
+U-96,Hans-Jürgen Hellriegel,New York (d.),"4,989",0,363,,1942,9,25
+U-514,Hans-Jürgen Auffermann,Lages (t.),"5,472",29,0,,1942,9,28
+U-514,Hans-Jürgen Auffermann,Ozório (t.),"2,730",29,0,,1942,9,28
+U-513,Rolf Rüggeberg,Ocean Vagabond (d.),"7,174",0,365,,1942,9,29
+U-333,Peter-Erich Cremer,HMS Crocus (K 49) (d.),925,0,0,,1942,10,6
+U-589,Hans-Joachim Horrer,Musson (No 23) [Mine],417,26,0,,1942,10,11
+U-559,Hans Heidtmann,Bringhi (t.),200,20,0,,1942,10,12
+U-221,Hans-Hartwig Trojer,HMS LCM-508 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-509 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-519 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-522 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-523 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-532 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-537 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-547 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCM-620 [Trans.],52,0,372,,1942,10,14
+U-221,Hans-Hartwig Trojer,HMS LCT-2006 [Trans.],291,0,372,,1942,10,14
+U-592,Carl Borm,Shchors [Mine],"3,770",26,0,,1942,10,14
+U-160,Georg Lassen,Winona (d.),"6,197",25,373,,1942,10,16
+U-161,Albrecht Achilles,HMS Phoebe (43) (d.),"5,450",0,0,,1942,10,23
+U-504,Hans-Georg Friedrich Poske,Anne Hutchinson (t.),"7,176",25,0,,1942,10,26
+U-509,Werner Witte,Anglo Mærsk (d.),"7,705",0,376,,1942,10,26
+U-436,Günther Seibicke,Frontenac (d.),"7,350",6,377,,1942,10,27
+U-436,Günther Seibicke,Gurney E. Newlin (d.),"8,225",25,377,,1942,10,27
+U-436,Günther Seibicke,HMS LCT-2281 [Trans.],291,0,377,,1942,10,27
+U-509,Werner Witte,Hopecastle (d.),"5,178",0,376,,1942,10,28
+U-606,Hans-Heinrich Döhler,Kosmos II (d.),"16,966",6,377,,1942,10,28
+U-509,Werner Witte,Corinaldo (d.),"7,131",0,376,,1942,10,29
+U-624,Ulrich Graf von Soden-Fraunhofen,HMS LCT-2190 [Trans.],291,0,377,,1942,10,29
+U-624,Ulrich Graf von Soden-Fraunhofen,HMS LCT-2192 [Trans.],291,0,377,,1942,10,29
+U-624,Ulrich Graf von Soden-Fraunhofen,HMS LCT-2284 [Trans.],291,0,377,,1942,10,29
+unknown,,HMS Northern Spray (FY 129) (d.),655,0,0,,1942,10,30
+U-409,Hanns-Ferdinand Massmann,Bullmouth (d.),"7,519",0,376,,1942,10,30
+U-659,Hans Stock,Corinaldo (d.),"7,131",0,376,,1942,10,30
+U-659,Hans Stock,Tasmania (d.),"6,405",0,376,,1942,10,30
+U-510,Karl Neitzel,Alaska (d.),"5,681",6,376,,1942,10,31
+U-402,Siegfried Freiherr von Forstner,Empire Sunrise (d.),"7,459",0,380,,1942,11,2
+U-438,Rudolf Franzius,Hartington (d.),"5,496",0,380,,1942,11,2
+U-522,Herbert Schneider,Hartington (d.),"5,496",0,380,,1942,11,2
+U-132,Ernst Vogelsang,Hatimura (d.),"6,690",0,380,,1942,11,4
+U-161,Albrecht Achilles,Benalder (d.),"5,161",0,386,,1942,11,8
+U-67,Günther Müller-Stöckheim,Capo Olmo (d.),"4,712",0,0,,1942,11,8
+U-177,Robert Gysae,Cerion (d.),"2,588",0,0,,1942,11,9
+U-173,Hans-Adolf Schweichel,USS Hambleton (DD 455) (d.),"1,630",25,389,,1942,11,11
+U-173,Hans-Adolf Schweichel,USS Winooski (AO 38) (d.),"10,172",25,389,,1942,11,11
+U-163,Kurt-Eduard Engelmann,USS Erie (PG 50) (t.),"2,000",25,390,,1942,11,12
+U-515,Werner Henke,HMS Marne (G 35) (d.),"1,920",0,387,,1942,11,12
+U-77,Otto Hartmann,HMS Stork (U 81) (d.),"1,190",0,0,,1942,11,12
+U-73,Horst Deckert,Lalande (d.),"7,453",0,387,,1942,11,14
+U-155,Adolf Cornelius Piening,USS Almaack (AK 27) (d.),"6,736",25,393,,1942,11,15
+U-173,Hans-Adolf Schweichel,USS Electra (AK 21) (d.),"8,113",25,389,,1942,11,15
+U-178,Hans Ibbeken,Adviser (d.),"6,348",0,0,,1942,11,15
+U-43,Hans-Joachim Schwantke,Brilliant (t.),"9,131",25,396,,1942,11,18
+U-624,Ulrich Graf von Soden-Fraunhofen,Yaka (d.),"5,432",25,395,,1942,11,18
+U-518,Friedrich-Wilhelm Wissmann,British Promise (d.),"8,443",0,399,,1942,11,21
+U-518,Friedrich-Wilhelm Wissmann,British Renown (d.),"6,997",0,399,,1942,11,21
+U-67,Günther Müller-Stöckheim,Empire Glade (d.),"7,006",0,0,,1942,11,28
+U-602,Philipp Schüler,HMS Porcupine (G 93) (t.),"1,540",0,0,,1942,12,9
+U-103,Gustav-Adolf Janssen,Hororata (d.),"13,945",0,0,,1942,12,13
+U-176,Reiner Dierksen,Scania,"1,629",5,0,,1942,12,13
+U-610,Walter Freiherr von Freyberg-Eisenberg-Allmendingen,Regent Lion (d.),"9,551",0,412,,1942,12,16
+U-225,Wolfgang Leimkühler,Scottish Heather (d.),"7,087",0,416,,1942,12,27
+U-356,Günther Ruppelt,Soekaboemi (d.),"7,051",9,416,,1942,12,27
+U-225,Wolfgang Leimkühler,Empire Shackleton (d.),"7,068",0,416,,1942,12,28
+U-225,Wolfgang Leimkühler,President Francqui (d.),"4,919",1,416,,1942,12,28
+U-225,Wolfgang Leimkühler,Ville de Rouen (d.),"5,598",0,416,,1942,12,28
+U-406,Horst Dieterichs,Baron Cochrane (d.),"3,385",0,416,,1942,12,28
+U-406,Horst Dieterichs,Lynton Grange (d.),"5,029",0,416,,1942,12,28
+U-406,Horst Dieterichs,Zarian (d.),"4,871",0,416,,1942,12,28
+U-591,Hans-Jürgen Zetzsche,Norse King (d.),"5,701",6,416,,1942,12,28
+U-123,Horst von Schroeter,Empire Shackleton (d.),"7,068",0,416,,1942,12,29
+U-435,Siegfried Strelow,HMS LCV-752 [Trans.],10,0,416,,1942,12,30
+U-435,Siegfried Strelow,HMS LCV-754 [Trans.],10,0,416,,1942,12,30
+U-73,Horst Deckert,USS LCT-21 [Trans.],255,25,418,,1943,1,1
+U-514,Hans-Jürgen Auffermann,British Vigilance (d.),"8,093",0,419,,1943,1,3
+U-371,Waldemar Mehl,Ville de Strasbourg (d.),"7,159",0,420,,1943,1,7
+U-522,Herbert Schneider,British Dominion (d.),"6,983",0,419,,1943,1,11
+U-268,Ernst Heydemann,HMS LCT-2239 [Trans.],291,0,423,,1943,1,17
+U-268,Ernst Heydemann,HMS LCT-2267 [Trans.],291,0,423,,1943,1,17
+U-268,Ernst Heydemann,HMS LCT-2344 [Trans.],291,0,423,,1943,1,17
+U-607,Ernst Mengersen,Kollbjørg (d.),"8,259",6,428,,1943,1,26
+U-118,Werner Czygan,Baltonia [Mine],"2,013",0,434,,1943,2,7
+U-118,Werner Czygan,Empire Mordred [Mine],"7,024",0,434,,1943,2,7
+U-118,Werner Czygan,Mary Slessor [Mine],"5,027",0,434,,1943,2,7
+U-402,Siegfried Freiherr von Forstner,Daghild (d.),"9,272",6,432,,1943,2,7
+U-608,Rolf Struckmeier,HMS LCT-2335 [Trans.],291,0,432,,1943,2,8
+U-118,Werner Czygan,Duero (d.) [Mine],"2,008",14,0,,1943,2,10
+U-81,Johann-Otto Krieg,Saroena (d.),"6,671",9,0,,1943,2,10
+U-332,Eberhard Hüttemann,Stigstad (d.),"5,964",6,440,,1943,2,21
+U-118,Werner Czygan,HMCS Weyburn (K 173) [Mine],925,19,442,,1943,2,22
+U-118,Werner Czygan,Thorsholm (d.) [Mine],"9,937",6,443,,1943,2,22
+U-606,Hans-Heinrich Döhler,Expositor (d.),"4,959",25,440,,1943,2,22
+U-92,Adolf Oelrich,N.T. Nielsen-Alonso (d.),"9,348",6,440,,1943,2,22
+U-202,Günter Poser,British Fortitude (d.),"8,482",0,444,,1943,2,23
+U-202,Günter Poser,Empire Norseman (d.),"9,811",0,444,,1943,2,23
+U-202,Günter Poser,Murena (d.),"8,252",9,444,,1943,2,23
+U-382,Herbert Juli,Empire Norseman (d.),"9,811",0,444,,1943,2,23
+U-628,Heinrich Hasenschar,Glittre (d.),"6,409",6,440,,1943,2,23
+U-628,Heinrich Hasenschar,Winkler (d.),"6,907",15,440,,1943,2,23
+U-565,Wilhelm Franken,Nathanael Greene (d.),"7,176",25,442,,1943,2,24
+U-600,Bernhard Zurmühlen,Ingria (d.),"4,391",6,440,,1943,2,24
+U-653,Gerhard Feiler,Madoera (d.),"9,382",9,440,,1943,2,24
+U-565,Wilhelm Franken,Seminole (d.),"10,389",0,446,,1943,2,27
+U-371,Waldemar Mehl,Daniel Carroll (d.),"7,176",25,446,,1943,2,28
+U-405,Rolf-Heinrich Hopman,RPT-1 [Trans.],35,26,447,,1943,2,28
+U-405,Rolf-Heinrich Hopman,RPT-3 [Trans.],35,26,447,,1943,2,28
+U-160,Georg Lassen,Tibia (d.),"10,356",9,448,,1943,3,3
+U-160,Georg Lassen,Sheaf Crown (d.),"4,868",0,448,,1943,3,4
+U-410,Horst-Arno Fenski,Fort Paskoyac (d.),"7,134",0,451,,1943,3,6
+U-638,Hinrich-Oscar Bernbeck,Empire Light (d.),"6,537",0,453,,1943,3,7
+U-527,Herbert Uhlig,HMS LCT-2480 [Trans.],291,0,452,,1943,3,8
+U-405,Rolf-Heinrich Hopman,HMS LCT-2341 [Trans.],291,0,452,,1943,3,9
+U-510,Karl Neitzel,George G. Meade (d.),"7,176",25,454,,1943,3,9
+U-510,Karl Neitzel,James K. Polk (t.),"7,177",25,454,,1943,3,9
+U-510,Karl Neitzel,James Smith (d.),"7,181",25,454,,1943,3,9
+U-510,Karl Neitzel,Joseph Rodman Drake (d.),"7,181",25,454,,1943,3,9
+U-510,Karl Neitzel,Mark Hanna (d.),"7,176",25,454,,1943,3,9
+U-510,Karl Neitzel,Tabitha Brown (d.),"7,176",25,454,,1943,3,9
+U-510,Karl Neitzel,Thomas Ruffin (t.),"7,191",25,454,,1943,3,9
+U-596,Gunter Jahn,Empire Standard (d.),"7,047",0,451,,1943,3,9
+U-596,Gunter Jahn,Fort Norman (d.),"7,133",0,451,,1943,3,9
+U-221,Hans-Hartwig Trojer,Lawton B. Evans (d.),"7,197",25,456,,1943,3,10
+U-229,Robert Schetelig,Coulmore (d.),"3,670",0,452,,1943,3,10
+U-255,Reinhart Reche,Richard Bland (t.),"7,191",25,450,,1943,3,10
+U-590,Heinrich Müller-Edzards,Jamaica Producer (d.),"5,464",0,456,,1943,3,11
+U-757,Friedrich Deetz,HMS LCT-2398 [Trans.],291,0,456,,1943,3,11
+U-380,Josef Röther,Ocean Seaman (t.),"7,178",0,461,,1943,3,15
+U-77,Otto Hartmann,Hadleigh (t.),"5,222",0,461,,1943,3,16
+U-77,Otto Hartmann,Merchant Prince (d.),"5,229",0,461,,1943,3,16
+U-167,Kurt Sturm,Molly Pitcher (d.),"7,200",25,459,,1943,3,17
+U-338,Manfred Kinzel,Fort Cedar Lake (d.),"7,134",0,463,,1943,3,17
+U-600,Bernhard Zurmühlen,Irénée Du Pont (d.),"6,125",25,462,,1943,3,17
+U-600,Bernhard Zurmühlen,Nariva (d.),"8,714",0,462,,1943,3,17
+U-527,Herbert Uhlig,Mathew Luckenbach (d.),"5,848",25,462,,1943,3,19
+U-666,Herbert Engel,Carras (d.),"5,234",8,463,,1943,3,19
+U-77,Otto Hartmann,City of Perth (t.),"6,415",0,465,,1943,3,26
+U-662,Heinz-Eberhard Müller,Ocean Viceroy (d.),"7,174",0,468,,1943,3,29
+U-24,Clemens Schöler,Kreml’ (d.),"7,661",26,0,,1943,3,31
+U-509,Werner Witte,City of Baroda (t.),"7,129",0,472,,1943,4,2
+U-635,Heinz Eckelmann,Shillong (d.),"5,529",0,474,,1943,4,4
+U-635,Heinz Eckelmann,Waroonga (d.),"9,365",0,474,,1943,4,4
+U-563,Götz von Hartmann,Sunoil (d.),"9,005",25,474,,1943,4,5
+U-117,Hans-Werner Neumann,Matt W. Ransom (d.) [Mine],"7,177",25,476,,1943,4,11
+U-563,Götz von Hartmann,Fresno City (d.),"7,261",0,480,,1943,4,12
+U-563,Götz von Hartmann,Ulysses,"2,666",9,480,,1943,4,12
+U-628,Heinrich Hasenschar,Fort Rampart (d.),"7,134",0,481,,1943,4,17
+U-415,Kurt Neide,Wanstead (d.),"5,486",0,484,,1943,4,21
+U-306,Claus von Trotha,Silvermaple (d.),"5,313",0,482,,1943,4,23
+U-117,Hans-Werner Neumann,Empire Morn (t.) [Mine],"7,092",0,0,,1943,4,25
+U-386,Hans-Albrecht Kandler,Rosenborg,"1,997",0,485,,1943,4,25
+U-455,Hans-Martin Scheibe,Rouennais [Mine],"3,777",3,486,,1943,4,25
+U-195,Heinz Buchholz,Cape Neddick (d.),"6,797",25,0,,1943,5,12
+U-414,Walther Huth,Fort Anne (d.),"7,134",0,498,,1943,5,18
+U-154,Oskar-Heinz Kusch,Cardinal Gibbons (d.),"7,191",25,499,,1943,5,28
+U-154,Oskar-Heinz Kusch,Florida (d.),"8,580",25,499,,1943,5,28
+U-154,Oskar-Heinz Kusch,John Worthington (t.),"8,166",25,499,,1943,5,28
+U-126,Siegfried Kietz,Flora MacDonald (t.),"7,177",25,501,,1943,5,30
+U-126,Siegfried Kietz,Standella (d.),"6,197",0,502,,1943,6,2
+U-119,Horst-Tessen von Kameke,Halma [Mine],"2,937",15,503,,1943,6,3
+U-214,Rupprecht Stock,Santa Maria (d.) [Mine],"6,507",25,0,,1943,6,20
+U-593,Gerd Kelbling,USS LST-333 (t.),"1,625",25,507,,1943,6,22
+U-593,Gerd Kelbling,USS LST-387 (d.),"1,625",25,507,,1943,6,22
+U-513,Friedrich Guggenberger,Eagle (d.),"6,003",25,0,,1943,6,25
+U-73,Horst Deckert,Abbeydale (d.),"8,299",0,508,,1943,6,27
+U-453,Egon Reiner Freiherr von Schlippenbach,Oligarch (d.),"6,894",0,510,,1943,6,30
+U-409,Hanns-Ferdinand Massmann,HMS LCE-14 [Trans.],10,0,512,,1943,7,4
+U-593,Gerd Kelbling,HMS LCM-1123 [Trans.],52,0,512,,1943,7,5
+U-593,Gerd Kelbling,HMS LCM-1129 (d.) [Trans.],52,0,512,,1943,7,5
+U-185,August Maus,S.B. Hunt (d.),"6,840",25,516,,1943,7,7
+U-510,Alfred Eick,Everagra (d.),"3,702",13,517,,1943,7,8
+U-371,Waldemar Mehl,Gulfprince (d.),"6,561",25,519,,1943,7,10
+U-371,Waldemar Mehl,Matthew Maury (d.),"7,176",25,519,,1943,7,10
+U-135,Otto Luther,Twickenham (d.),"4,762",0,520,,1943,7,15
+U-306,Claus von Trotha,Kaipara (d.),"5,882",0,521,,1943,7,16
+U-66,Friedrich Markworth,Cherry Valley (d.),"10,172",25,0,,1943,7,22
+U-81,Johann-Otto Krieg,Empire Moon (t.),"7,472",0,0,,1943,7,22
+U-407,Ernst-Ulrich Brüller,HMS Newfoundland (59) (d.),"8,800",0,0,,1943,7,23
+U-197,Robert Bartels,Pegasus,"9,583",5,0,,1943,7,24
+U-625,Hans Benker,T-904 (No 58) [Mine],557,26,0,,1943,7,25
+U-119,Horst-Tessen von Kameke,John A. Poor (d.) [Mine],"7,176",25,523,,1943,7,28
+U-197,Robert Bartels,William Ellery (d.),"7,181",25,0,,1943,7,30
+U-24,Klaus Petersen,Emba (t.),"7,886",26,0,,1943,7,30
+U-212,Helmut Vogler,Majakovski [Mine],80,26,0,,1943,8,5
+U-596,Victor-Wilhelm Nonn,Lily,132,38,0,,1943,8,21
+U-380,Josef Röther,Pierre Soulé (d.),"7,191",25,0,,1943,8,23
+U-625,Hans Benker,ASO-1 Shkval [Mine],572,26,0,,1943,8,25
+U-354,Karl-Heinz Herbschleb,Petrovskij (d.),"3,771",26,0,,1943,8,27
+U-107,Volker Simmermacher,Albert Gallatin (d.),"7,176",25,0,,1943,8,28
+U-18,Karl Fleige,SKA-0132 (d.),56,26,0,,1943,8,30
+U-636,Hans Hildebrandt,Tbilisi [Mine],"7,169",26,0,,1943,9,6
+U-107,Volker Simmermacher,USS Rapidan (AO 18) (d.) [Mine],"8,246",25,533,,1943,9,11
+U-238,Horst Hepp,Frederick Douglass (d.),"7,176",25,534,,1943,9,20
+U-270,Paul-Friedrich Otto,HMS Lagan (K 259) (t.),"1,370",0,534,,1943,9,20
+U-952,Oskar Curio,James Gordon Bennett (d.),"7,176",25,534,,1943,9,23
+U-223,Karl-Jürg Wächter,Stanmore (t.),"4,970",0,539,,1943,10,2
+U-188,Siegfried Lüdden,Britannia (d.),"9,977",6,0,,1943,10,5
+U-214,Rupprecht Stock,USS Dorado (SS 248) [Mine],"1,525",25,0,,1943,10,14
+U-23,Rolf-Birger Wahlen,TSC-486 Sovetskaja Rossija (d.),"1,005",26,0,,1943,10,15
+U-371,Waldemar Mehl,James Russell Lowell (t.),"7,176",25,544,,1943,10,15
+U-220,Bruno Barber,Delisle [Mine],"3,478",25,546,,1943,10,19
+U-220,Bruno Barber,Penolver [Mine],"3,721",0,546,,1943,10,19
+U-532,Ottoheinrich Junker,British Purpose (d.),"5,845",0,547,,1943,10,20
+U-453,Egon Reiner Freiherr von Schlippenbach,HMS Quail (G 45) (t.) [Mine],"1,705",0,0,,1943,11,15
+U-18,Karl Fleige,Josif Stalin (d.),"7,745",26,0,,1943,11,18
+U-515,Werner Henke,HMS Chanticleer (U 05) (t.),"1,350",0,550,,1943,11,18
+U-453,Egon Reiner Freiherr von Schlippenbach,Jela [Mine],335,11,0,,1943,11,20
+U-453,Egon Reiner Freiherr von Schlippenbach,HMS Hebe (J 24) [Mine],835,0,0,,1943,11,22
+U-407,Ernst-Ulrich Brüller,HMS Birmingham (19) (d.),"9,100",0,0,,1943,11,28
+U-20,Karl Grafen,Peredovik (d.),"1,846",26,0,,1943,11,29
+U-516,Hans-Rutger Tillessen,Colombia,"1,064",15,0,,1943,12,8
+U-223,Karl-Jürg Wächter,HMS Cuckmere (K 299) (t.),"1,300",0,554,,1943,12,11
+U-73,Horst Deckert,John S. Copley (d.),"7,176",25,555,,1943,12,16
+U-530,Kurt Lange,Chapultepec (d.),"10,195",25,0,,1943,12,26
+U-545,Gert Mannesmann,Empire Housman (d.),"7,359",0,558,,1943,12,30
+unknown,,HMS Abelia (K 184) (d.),925,0,559,,1944,1,9
+U-532,Ottoheinrich Junker,Triona (d.),"7,283",0,0,,1944,1,11
+U-20,Karl Grafen,Vaijan Kutur’e (t.),"7,602",26,0,,1944,1,16
+U-360,Klaus-Helmuth Becker,HMS Obdurate (G 39) (d.),"1,540",0,561,,1944,1,25
+U-360,Klaus-Helmuth Becker,Fort Bellingham (d.),"7,153",0,561,,1944,1,26
+U-716,Hans Dunkelberg,USS PTC-39 [Trans.],54,25,561,,1944,1,26
+U-845,Werner Weber,Kelmscott (d.),"7,039",0,565,,1944,2,9
+U-168,Helmuth Pich,Fenris (d.),"9,804",6,0,,1944,2,21
+U-510,Alfred Eick,Erling Brøvig (t.),"9,970",6,568,,1944,2,22
+U-969,Max Dobbert,George Cleeve (t.),"7,176",25,569,,1944,2,22
+U-969,Max Dobbert,Peter Skene Ogden (t.),"7,176",25,569,,1944,2,22
+U-407,Hubertus Korndörfer,Ensis (d.),"6,207",0,0,,1944,2,29
+U-66,Gerhard Seehausen,John Holt,"4,964",0,0,,1944,3,5
+U-183,Fritz Schneewind,British Loyalty (t.),"6,993",0,0,,1944,3,9
+U-371,Waldemar Mehl,Maiden Creek (t.),"6,165",25,576,,1944,3,17
+U-23,Rolf-Birger Wahlen,SKA-099 (d.),56,26,0,,1944,4,5
+U-20,Karl Grafen,Rion [Mine],187,26,0,,1944,4,7
+U-407,Hubertus Korndörfer,Thomas G. Masaryk (t.),"7,176",25,581,,1944,4,16
+U-371,Horst-Arno Fenski,USS Menges (DE 320) (d.),"1,200",25,585,,1944,5,3
+U-473,Heinz Sternberg,USS Donnell (DE 56) (t.),"1,400",25,586,,1944,5,3
+U-371,Horst-Arno Fenski,FFL Sénégalais (T 22) (d.),"1,300",3,585,,1944,5,4
+U-9,Klaus Petersen,Shtorm (d.),412,26,0,,1944,5,11
+U-616,Siegfried Koitschka,Fort Fidler (d.),"7,127",0,589,,1944,5,14
+U-616,Siegfried Koitschka,G.S. Walden (d.),"10,627",0,589,,1944,5,14
+U-549,Detlev Krankenhagen,USS Barr (DE 576) (d.),"1,300",25,0,,1944,5,29
+U-539,Hans-Jürgen Lauterbach-Emden,Casandra (d.),"2,701",9,0,,1944,6,11
+U-107,Volker Simmermacher,Lark (d.),148,25,0,,1944,6,13
+U-621,Hermann Stuckmann,USS LST-133 (d.),"1,625",25,591,,1944,6,15
+U-984,Heinz Sieder,HMS Goodson (K 480) (t.),"1,300",0,0,,1944,6,25
+unknown,,HMS Pink (K 137) (t.),925,0,0,,1944,6,27
+unknown,,Maid of Orleans,"2,385",0,592,"[('50.10', '-0.68')]",1944,6,28
+unknown,,Empire Portia (t.),"7,058",0,593,,1944,6,29
+U-984,Heinz Sieder,Edward M. House (d.),"7,240",25,594,,1944,6,29
+U-984,Heinz Sieder,H.G. Blasdel (t.),"7,176",25,594,,1944,6,29
+U-984,Heinz Sieder,James A. Farrell (t.),"7,176",25,594,,1944,6,29
+U-984,Heinz Sieder,John A. Treutlen (t.),"7,198",25,594,,1944,6,29
+U-539,Hans-Jürgen Lauterbach-Emden,Kittanning (d.),"10,195",25,0,,1944,7,4
+U-218,Richard Becker,HMS Empire Halberd (F 160) (d.) [Mine],"7,177",0,0,,1944,7,6
+U-679,Friedrich Breckwoldt,TK-57 (No 60) (d.),36,26,0,,1944,7,15
+U-479,Friedrich-Wilhelm Sons,MO-304 (d.),56,26,0,,1944,7,18
+U-309,Hans-Gert Mahrholz,Samneva (t.),"7,219",0,597,,1944,7,24
+U-475,Otto Stoeffler,MO-107 (d.),56,26,0,,1944,7,28
+U-481,Klaus Andersen,KT-806 (d.),26,26,0,,1944,7,30
+U-621,Hermann Stuckmann,Ascanius (d.),"10,048",0,598,,1944,7,30
+U-667,Karl-Heinz Lange,USS LST-921 (t.),"1,653",25,602,,1944,8,14
+U-741,Gerhard Palmgren,HMS LST-404 (t.),"1,625",0,603,,1944,8,15
+U-307,Friedrich-Georg Herrle,Lennox,50,6,0,,1944,8,18
+U-861,Jürgen Oesten,Daronia (d.),"8,139",0,606,,1944,8,20
+U-354,Hans-Jürgen Sthamer,HMS Nabob (D 77) (t.),"11,420",0,0,,1944,8,22
+U-989,Hardo Rodler von Roithberg,Louis Kossuth (d.),"7,176",25,608,,1944,8,23
+U-92,Wilhelm Brauel,USS LST-327 (t.),"1,625",25,0,,1944,8,27
+U-518,Hans-Werner Offermann,George Ade (d.),"7,176",25,0,,1944,9,12
+U-979,Johannes Meermeier,USS Yukon (AF 9) (d.),"5,969",25,0,,1944,9,22
+U-1223,Albert Kneip,HMCS Magog (K 673) (t.),"1,370",19,616,,1944,10,14
+U-958,Gerhard Groth,Piikkiö (d.),40,2,0,,1944,10,24
+U-242,Karl-Wilhelm Pancke,Rigel [Mine],"1,495",2,0,,1944,10,28
+U-1223,Albert Kneip,Fort Thompson (d.),"7,134",0,0,,1944,11,2
+U-295,Günter Wieboldt,HMS Mounsey (K 569) (d.),"1,150",0,617,,1944,11,2
+U-978,Günther Pulst,William D. Burnham (t.),"7,176",25,619,,1944,11,23
+U-365,Diether Todenhagen,HMS Cassandra (R 62) (d.),"1,710",0,621,,1944,12,11
+U-870,Ernst Hechler,USS Fogg (DE 57) (d.),"1,400",25,0,,1944,12,20
+U-806,Klaus Hornbostel,Samtucky (d.),"7,219",0,623,,1944,12,21
+U-486,Gerhard Meyer,HMS Affleck (K 462) (t.),"1,085",0,0,,1944,12,26
+U-322,Gerhard Wysk,Arthur Sewall (t.),"7,176",25,627,,1944,12,29
+U-322,Gerhard Wysk,Black Hawk (t.),"7,191",25,627,,1944,12,29
+U-956,Hans-Dieter Mohs,Tbilisi (t.),"7,176",26,629,,1944,12,30
+U-1232,Kurt Dobratz,Nipiwan Park (d.),"2,373",19,630,,1945,1,4
+U-870,Ernst Hechler,Blackheath (t.),"4,637",0,633,,1945,1,10
+U-1232,Kurt Dobratz,Martin Van Buren (t.),"7,176",25,634,,1945,1,14
+U-1172,Jürgen Kuhlmann,HMS Thane (D 83) (t.),"11,400",0,0,,1945,1,15
+U-1172,Jürgen Kuhlmann,Spinanger (d.),"7,429",6,0,,1945,1,15
+U-293,Leonhard Klingspor,Razjarennyj (d.),"1,658",26,636,,1945,1,20
+U-1199,Rolf Nollmann,George Hawley (t.),"7,176",25,637,,1945,1,21
+U-1051,Heinrich von Holleben,HMS Manners (K 568) (t.),"1,300",0,0,,1945,1,26
+U-825,Gerhard Stoelker,Ruben Dario (d.),"7,198",25,639,,1945,1,27
+U-825,Gerhard Stoelker,Solør (t.),"8,262",6,639,,1945,1,27
+U-992,Hans Falke,HMS Denbigh Castle (K 696) (t.),"1,060",0,642,,1945,2,13
+U-968,Otto Westphalen,Horace Gray (t.),"7,200",25,643,,1945,2,14
+U-968,Otto Westphalen,Norfjell (d.),"8,129",6,643,,1945,2,14
+U-300,Fritz Hein,Michael J. Stone (d.),"7,176",25,644,,1945,2,17
+U-300,Fritz Hein,Regent Lion (t.),"9,551",0,644,,1945,2,17
+U-968,Otto Westphalen,HMS Lark (U 11) (t.),"1,350",0,645,,1945,2,17
+U-775,Erich Taschenmacher,Empire Geraint (d.),"6,991",0,654,,1945,3,6
+U-995,Hans-Georg Hess,Horace Bushnell (t.),"7,176",25,659,,1945,3,20
+U-399,Heinz Buhse,James Eagan Layne (t.),"7,176",25,661,,1945,3,21
+U-711,Hans-Günther Lange,VPS-5 (d.),20,26,0,,1945,3,22
+U-399,Heinz Buhse,Pacific,362,9,663,,1945,3,26
+U-315,Herbert Zoller,HMCS Teme (K 458) (t.),"1,370",19,664,,1945,3,29
+U-879,Erwin Manchen,Atlantic States (d.),"8,537",25,0,,1945,4,5
+U-1024,Hans-Joachim Gutteck,James W. Nesmith (t.),"7,176",25,666,,1945,4,7
+U-1024,Hans-Joachim Gutteck,Will Rogers (d.),"7,200",25,667,,1945,4,12
+U-218,Rupprecht Stock,Ethel Crawford [Mine],200,0,0,,1945,4,20
+U-997,Hans Lehmann,Idefjord (d.),"4,287",6,671,,1945,4,22
+U-1023,Heinrich-Andreas Schroeteler,Riverton (d.),"7,345",0,672,,1945,4,23
+U-857,Rudolf Premauer,Katy (d.),"6,825",6,0,,1945,4,23
+U-1105,Hans-Joachim Schwarz,HMS Redmill (K 554) (t.),"1,300",0,0,,1945,4,27
+U-979,Johannes Meermeier,Empire Unity (d.),"6,386",0,674,,1945,5,5
